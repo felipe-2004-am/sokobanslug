@@ -53,8 +53,8 @@ Para moverse en el juego el usuario utilizará alguna de las siguientes letras p
 | --- | --- | --- | --- |
 | 0. | Cargar el siguiente nivel. | Por hacer | - | | - |
 | 1. | Repetir el juego hasta terminar el nivel. | Por hacer | - | | - |
-| 2. | Imprimir mapa.| Por hacer | - |
-| 3. | Leer el movimiento. | Por hacer | - |
+| 2. | Imprimir mapa.| LISTO | - |
+| 3. | Leer el movimiento. | LISTO | - |
 | 4. | Evaluar el movimiento del usuario. | Por hacer | - |
 
 ## Derecha
