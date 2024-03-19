@@ -1,27 +1,34 @@
-personaje = " 0 "
-cajas = " 📦 "
-metas = " 2 "
-paredes = "333"
-espacio_piso = "   "
-personaje_meta = " 3 "
-caja_meta = " 🍕 "
+personaje = "👽"
+cajas = "🐄"
+metas = "🛸"
+paredes = "⬜"
+espacio_piso = "  "
+personaje_meta = "3"
+caja_meta = "💀"
 
 posicion_personaje = [2, 2]
-posiciones_cajas = [[2, 3], [2, 1]]  # Añade más posiciones de cajas según sea necesario
+posiciones_cajas = [[2, 5], [2, 1], [2, 8]]  # Añade más posiciones de cajas según sea necesario
 
 print("OCUPA LAS TECLAS A/S/D/W PARA MOVERTE")
 
 mapa = [
-    [paredes, paredes, paredes, paredes, paredes],
-    [paredes, espacio_piso, espacio_piso, metas, paredes],
-    [paredes, cajas, personaje, cajas, paredes],
-    [paredes, metas, espacio_piso, espacio_piso, paredes],
-    [paredes, paredes, paredes, paredes, paredes],
+  [paredes, paredes, paredes, paredes, paredes, paredes, paredes, paredes, paredes, paredes, paredes, paredes],
+    [paredes, espacio_piso, espacio_piso, espacio_piso , metas, espacio_piso, espacio_piso,paredes, espacio_piso, espacio_piso, espacio_piso , paredes],
+    [paredes, cajas, personaje, espacio_piso, paredes, cajas, espacio_piso,espacio_piso, cajas, espacio_piso, espacio_piso, paredes],
+    [paredes, metas, espacio_piso, espacio_piso,espacio_piso,espacio_piso,espacio_piso, espacio_piso, paredes, paredes, paredes, paredes],
+    [paredes, espacio_piso, espacio_piso, espacio_piso, paredes, espacio_piso, espacio_piso, espacio_piso, espacio_piso, espacio_piso, metas, paredes],
+    [paredes, paredes, paredes, paredes, paredes, paredes, paredes, paredes, paredes, paredes, paredes, paredes],
 ]
+
+def contar_numero(lista, numero):
+  return lista.count(numero)
 
 def imprimir_mapa():
   for fila in mapa:
     print(''.join(fila))
+
+def contar_cajas():
+  return sum(fila.count(cajas) for fila in mapa)
 
 def verificar_ganador():
   for fila in mapa:
@@ -49,6 +56,11 @@ def mover_personaje(direccion):
     nueva_posicion[1] += 1
     for pos in nuevas_posiciones_cajas:
       pos[1] += 1
+  elif direccion.lower() == 'p':
+    for fila in mapa:
+        while cajas in fila:
+            fila.remove(cajas)
+            posiciones_cajas.clear()
 
   if 0 <= nueva_posicion[0] < len(mapa) and 0 <= nueva_posicion[1] < len(mapa[0]):
     if mapa[nueva_posicion[0]][nueva_posicion[1]] != paredes:
@@ -73,6 +85,7 @@ def mover_personaje(direccion):
 continuar_juego = True
 while continuar_juego:
   imprimir_mapa()
+  print("Número de cajas restantes: ", contar_cajas())
   if verificar_ganador():
     print("¡siguiente nivel.")
     break
