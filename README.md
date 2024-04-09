@@ -61,79 +61,79 @@ Para moverse en el juego el usuario utilizará alguna de las siguientes letras p
 
 | No. | Función | Kanban | Inicio | Fin | Fecha terminación |
 | --- | --- | --- | --- | --- | --- |
-| 5. | Personaje, pasillo  | Por hacer | [0,4] | [4,0] | - |
-| 6. | Personaje, meta  | Por hacer | [0,2] | [4,6] |- |
-| 7. | Personaje, caja, pasillo | Por hacer | [0,1,4] | [4,0,1] | - |
-| 8. | Personaje, caja,  meta | Por hacer | [0,1,2] | [4,0,5] | - |
-| 9. | Personaje, caja_meta, pasillo | Por hacer | [] | [] | - |
-| 10. |Personaje, caja_meta, meta | Por hacer | [] | [] | - |
-| 11. | Personaje_meta, pasillo | Por hacer | [] | [] | - |
-| 12. | Personaje_meta, meta | Por hacer | [] | [] | - |
-| 13. | Personaje_meta, caja, pasillo | Por hacer | [] | [] | - |
-| 14. | Personaje_meta, caja, meta | Por hacer | [] | [] | - |
-| 15. | Personaje_meta, caja_meta, pasillo | Por hacer | [] | [] | - |
-| 16. | Personaje_meta, caja_meta, meta | Por hacer | [] | [] | - |
+| 5. | Personaje, pasillo  | Hecho | [0,4] | [4,0] | - |
+| 6. | Personaje, meta  |  Hecho | [0,2] | [4,6] |- |
+| 7. | Personaje, caja, pasillo | Hecho | [0,1,4] | [4,0,1] | - |
+| 8. | Personaje, caja,  meta |Hecho | [0,1,2] | [4,0,5] | - |
+| 9. | Personaje, caja_meta, pasillo | Hecho | [] | [] | - |
+| 10. |Personaje, caja_meta, meta | Hecho | [] | [] | - |
+| 11. | Personaje_meta, pasillo | Hecho | [] | [] | - |
+| 12. | Personaje_meta, meta | Hecho | [] | [] | - |
+| 13. | Personaje_meta, caja, pasillo | Hecho | [] | [] | - |
+| 14. | Personaje_meta, caja, meta | Hecho | [] | [] | - |
+| 15. | Personaje_meta, caja_meta, pasillo | Hecho | [] | [] | - |
+| 16. | Personaje_meta, caja_meta, meta | Hecho | [] | [] | - |
 
 ## Izquierda
 
 | No. | Función | Kanban | Fecha terminación |
 | --- | --- | --- | --- |
-| 17. | Personaje y espacio | Por hacer | - |
-| 18. | Personaje y meta | Por hacer | - |
-| 19. | Personaje, caja y espacio | Por hacer | - |
-| 20. | Personaje, caja y meta | Por hacer | - |
-| 21. | Personaje, caja_meta y espacio | Por hacer | - |
-| 22. | Personaje, caja_meta y meta | Por hacer | - |
-| 23. | Personaje_meta y espacio | Por hacer | - |
-| 24. | Personaje_meta y meta | Por hacer | - |
-| 25. | Personaje_meta, caja y espacio | Por hacer | - |
-| 26. | Personaje_meta, caja y meta | Por hacer | - |
-| 27. | Personaje_meta, caja_meta y espacio | Por hacer | - |
-| 28. | Personaje_meta, caja_meta y meta | Por hacer | - |
+| 17. | Personaje y espacio | Hecho | - |
+| 18. | Personaje y meta | Hecho | - |
+| 19. | Personaje, caja y espacio | Hecho | - |
+| 20. | Personaje, caja y meta | Hecho | - |
+| 21. | Personaje, caja_meta y espacio | Hecho | - |
+| 22. | Personaje, caja_meta y meta | Hecho | - |
+| 23. | Personaje_meta y espacio | Hecho | - |
+| 24. | Personaje_meta y meta | Hecho | - |
+| 25. | Personaje_meta, caja y espacio | Hecho | - |
+| 26. | Personaje_meta, caja y meta | Hecho | - |
+| 27. | Personaje_meta, caja_meta y espacio | Hecho | - |
+| 28. | Personaje_meta, caja_meta y meta | Hecho | - |
 
 ## Arriba
 
 | No. | Función | Kanban | Fecha terminación |
 | --- | --- | --- | --- |
-| 29. | Personaje y espacio | Por hacer | - |
-| 30. | Personaje y meta | Por hacer | - |
-| 31. | Personaje, caja y espacio | Por hacer | - |
-| 32. | Personaje, caja y meta | Por hacer | - |
-| 33. | Personaje, caja_meta y espacio | Por hacer | - |
-| 34. | Personaje, caja_meta y meta | Por hacer | - |
-| 35. | Personaje_meta y espacio | Por hacer | - |
-| 36. | Personaje_meta y meta | Por hacer | - |
-| 37. | Personaje_meta, caja y espacio | Por hacer | - |
-| 38. | Personaje_meta, caja y meta | Por hacer | - |
-| 39. | Personaje_meta, caja_meta y espacio | Por hacer | - |
-| 40. | Personaje_meta, caja_meta y meta | Por hacer | - |
+| 29. | Personaje y espacio | Hecho | - |
+| 30. | Personaje y meta | Hecho | - |
+| 31. | Personaje, caja y espacio | Hecho | - |
+| 32. | Personaje, caja y meta | Hecho | - |
+| 33. | Personaje, caja_meta y espacio | Hecho | - |
+| 34. | Personaje, caja_meta y meta | Hecho | - |
+| 35. | Personaje_meta y espacio | Hecho | - |
+| 36. | Personaje_meta y meta | Hecho | - |
+| 37. | Personaje_meta, caja y espacio | Hecho | - |
+| 38. | Personaje_meta, caja y meta | Hecho | - |
+| 39. | Personaje_meta, caja_meta y espacio | Hecho | - |
+| 40. | Personaje_meta, caja_meta y meta | Hecho | - |
 
 ## Abajo
 
 | No. | Función | Kanban | Fecha terminación |
 | --- | --- | --- | --- |
-| 41. | Personaje y espacio | Por hacer | - |
-| 42. | Personaje y meta | Por hacer | - |
-| 43. | Personaje, caja y espacio | Por hacer | - |
-| 44. | Personaje, caja y meta | Por hacer | - |
-| 45. | Personaje, caja_meta y espacio | Por hacer | - |
-| 46. | Personaje, caja_meta y meta | Por hacer | - |
-| 47. | Personaje_meta y espacio | Por hacer | - |
-| 48. | Personaje_meta y meta | Por hacer | - |
-| 49. | Personaje_meta, caja y espacio | Por hacer | - |
-| 50. | Personaje_meta, caja y meta | Por hacer | - |
-| 51. | Personaje_meta, caja_meta y espacio | Por hacer | - |
-| 52. | Personaje_meta, caja_meta y meta | Por hacer | - |
+| 41. | Personaje y espacio | Hecho | - |
+| 42. | Personaje y meta | Hecho | - |
+| 43. | Personaje, caja y espacio | Hecho | - |
+| 44. | Personaje, caja y meta | Hecho | - |
+| 45. | Personaje, caja_meta y espacio | Hecho | - |
+| 46. | Personaje, caja_meta y meta | Hecho | - |
+| 47. | Personaje_meta y espacio | Hecho | - |
+| 48. | Personaje_meta y meta | Hecho | - |
+| 49. | Personaje_meta, caja y espacio | Hecho | - |
+| 50. | Personaje_meta, caja y meta | Hecho | - |
+| 51. | Personaje_meta, caja_meta y espacio | Hecho | - |
+| 52. | Personaje_meta, caja_meta y meta | Hecho | - |
 
 ## Determina si se completo el nivel o no
 
 | No. | Función | Kanban | Fecha terminación |
 | --- | --- | --- | --- |
-| 53. | Evaluar si el nivel esta terminado.  | Por hacer | - |
+| 53. | Evaluar si el nivel esta terminado.  |  Hecho | - |
 | 54. | Si el nivel esta terminado cargar el siguiente nivel.  | Por hacer | - |
 
 ## Función extra
 
 | No. | Función | Kanban | Fecha terminación |
 | --- | --- | --- | --- |
-| 55. | Función adicional o powerup (descripción). | Por hacer | - |
+| 55. | Función adicional o powerup (convierte las cajas en piedra ). | Hecho | - |
