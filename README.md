@@ -52,10 +52,10 @@ Para moverse en el juego el usuario utilizará alguna de las siguientes letras p
 | No. |Función | Kanban | Fecha terminación |
 | --- | --- | --- | --- |
 | 0. | Cargar el siguiente nivel. | Por hacer | - | | - |
-| 1. | Repetir el juego hasta terminar el nivel. | Por hacer | - | | - |
+| 1. | Repetir el juego hasta terminar el nivel. | LISTO | - | | - |
 | 2. | Imprimir mapa.| LISTO | - |
 | 3. | Leer el movimiento. | LISTO | - |
-| 4. | Evaluar el movimiento del usuario. | Por hacer | - |
+| 4. | Evaluar el movimiento del usuario. | LISTO | - |
 
 ## Derecha
 
@@ -76,54 +76,54 @@ Para moverse en el juego el usuario utilizará alguna de las siguientes letras p
 
 ## Izquierda
 
-| No. | Función | Kanban | Fecha terminación |
-| --- | --- | --- | --- |
-| 17. | Personaje y espacio | Hecho | - |
-| 18. | Personaje y meta | Hecho | - |
-| 19. | Personaje, caja y espacio | Hecho | - |
-| 20. | Personaje, caja y meta | Hecho | - |
-| 21. | Personaje, caja_meta y espacio | Hecho | - |
-| 22. | Personaje, caja_meta y meta | Hecho | - |
-| 23. | Personaje_meta y espacio | Hecho | - |
-| 24. | Personaje_meta y meta | Hecho | - |
-| 25. | Personaje_meta, caja y espacio | Hecho | - |
-| 26. | Personaje_meta, caja y meta | Hecho | - |
-| 27. | Personaje_meta, caja_meta y espacio | Hecho | - |
-| 28. | Personaje_meta, caja_meta y meta | Hecho | - |
+| No. | Función | Kanban | 
+| --- | --- | --- | 
+| 17. | Personaje y espacio | Hecho | 
+| 18. | Personaje y meta | Hecho | 
+| 19. | Personaje, caja y espacio | Hecho | 
+| 20. | Personaje, caja y meta | Hecho | 
+| 21. | Personaje, caja_meta y espacio | Hecho | 
+| 22. | Personaje, caja_meta y meta | Hecho | 
+| 23. | Personaje_meta y espacio | Hecho | 
+| 24. | Personaje_meta y meta | Hecho | 
+| 25. | Personaje_meta, caja y espacio | Hecho | 
+| 26. | Personaje_meta, caja y meta | Hecho | 
+| 27. | Personaje_meta, caja_meta y espacio | Hecho | 
+| 28. | Personaje_meta, caja_meta y meta | Hecho | 
 
 ## Arriba
 
-| No. | Función | Kanban | Fecha terminación |
-| --- | --- | --- | --- |
-| 29. | Personaje y espacio | Hecho | - |
-| 30. | Personaje y meta | Hecho | - |
-| 31. | Personaje, caja y espacio | Hecho | - |
-| 32. | Personaje, caja y meta | Hecho | - |
-| 33. | Personaje, caja_meta y espacio | Hecho | - |
-| 34. | Personaje, caja_meta y meta | Hecho | - |
-| 35. | Personaje_meta y espacio | Hecho | - |
-| 36. | Personaje_meta y meta | Hecho | - |
-| 37. | Personaje_meta, caja y espacio | Hecho | - |
-| 38. | Personaje_meta, caja y meta | Hecho | - |
-| 39. | Personaje_meta, caja_meta y espacio | Hecho | - |
-| 40. | Personaje_meta, caja_meta y meta | Hecho | - |
+| No. | Función | Kanban | 
+| --- | --- | --- | 
+| 29. | Personaje y espacio | Hecho | 
+| 30. | Personaje y meta | Hecho | 
+| 31. | Personaje, caja y espacio | Hecho | 
+| 32. | Personaje, caja y meta | Hecho | 
+| 33. | Personaje, caja_meta y espacio | Hecho | 
+| 34. | Personaje, caja_meta y meta | Hecho | 
+| 35. | Personaje_meta y espacio | Hecho | 
+| 36. | Personaje_meta y meta | Hecho | 
+| 37. | Personaje_meta, caja y espacio | Hecho | 
+| 38. | Personaje_meta, caja y meta | Hecho | 
+| 39. | Personaje_meta, caja_meta y espacio | Hecho | 
+| 40. | Personaje_meta, caja_meta y meta | Hecho | 
 
 ## Abajo
 
-| No. | Función | Kanban | Fecha terminación |
-| --- | --- | --- | --- |
-| 41. | Personaje y espacio | Hecho | - |
-| 42. | Personaje y meta | Hecho | - |
-| 43. | Personaje, caja y espacio | Hecho | - |
-| 44. | Personaje, caja y meta | Hecho | - |
-| 45. | Personaje, caja_meta y espacio | Hecho | - |
-| 46. | Personaje, caja_meta y meta | Hecho | - |
-| 47. | Personaje_meta y espacio | Hecho | - |
-| 48. | Personaje_meta y meta | Hecho | - |
-| 49. | Personaje_meta, caja y espacio | Hecho | - |
-| 50. | Personaje_meta, caja y meta | Hecho | - |
-| 51. | Personaje_meta, caja_meta y espacio | Hecho | - |
-| 52. | Personaje_meta, caja_meta y meta | Hecho | - |
+| No. | Función | Kanban | 
+| --- | --- | --- | 
+| 41. | Personaje y espacio | Hecho | 
+| 42. | Personaje y meta | Hecho | 
+| 43. | Personaje, caja y espacio | Hecho | 
+| 44. | Personaje, caja y meta | Hecho | 
+| 45. | Personaje, caja_meta y espacio | Hecho | 
+| 46. | Personaje, caja_meta y meta | Hecho | 
+| 47. | Personaje_meta y espacio | Hecho | 
+| 48. | Personaje_meta y meta | Hecho | 
+| 49. | Personaje_meta, caja y espacio | Hecho | 
+| 50. | Personaje_meta, caja y meta | Hecho | 
+| 51. | Personaje_meta, caja_meta y espacio | Hecho | 
+| 52. | Personaje_meta, caja_meta y meta | Hecho | 
 
 ## Determina si se completo el nivel o no
 
