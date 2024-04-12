@@ -127,13 +127,13 @@ Para moverse en el juego el usuario utilizará alguna de las siguientes letras p
 
 ## Determina si se completo el nivel o no
 
-| No. | Función | Kanban | Fecha terminación |
-| --- | --- | --- | --- |
-| 53. | Evaluar si el nivel esta terminado.  |  Hecho | - |
-| 54. | Si el nivel esta terminado cargar el siguiente nivel.  | Por hacer | - |
+| No. | Función | Kanban | 
+| --- | --- | --- | 
+| 53. | Evaluar si el nivel esta terminado.  |  Hecho | 
+| 54. | Si el nivel esta terminado cargar el siguiente nivel.  | Por hacer | 
 
 ## Función extra
 
-| No. | Función | Kanban | Fecha terminación |
-| --- | --- | --- | --- |
-| 55. | Función adicional o powerup (convierte las cajas en piedra ). | Hecho | - |
+| No. | Función | Kanban | 
+| --- | --- | --- | 
+| 55. | Función adicional o powerup (convierte las cajas en piedra ). | Hecho | 
