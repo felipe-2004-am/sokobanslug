@@ -49,13 +49,13 @@ Para moverse en el juego el usuario utilizará alguna de las siguientes letras p
 
 ## 4. Función a implementar
 
-| No. |Función | Kanban | Fecha terminación |
-| --- | --- | --- | --- |
-| 0. | Cargar el siguiente nivel. | Por hacer | - | | - |
-| 1. | Repetir el juego hasta terminar el nivel. | LISTO | - | | - |
-| 2. | Imprimir mapa.| LISTO | - |
-| 3. | Leer el movimiento. | LISTO | - |
-| 4. | Evaluar el movimiento del usuario. | LISTO | - |
+| No. |Función | Kanban | 
+| --- | --- | --- | 
+| 0. | Cargar el siguiente nivel. | Por hacer | - | 
+| 1. | Repetir el juego hasta terminar el nivel. | LISTO | - | 
+| 2. | Imprimir mapa.| LISTO | 
+| 3. | Leer el movimiento. | LISTO | 
+| 4. | Evaluar el movimiento del usuario. | LISTO | 
 
 ## Derecha
 
