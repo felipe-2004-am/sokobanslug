@@ -59,20 +59,20 @@ Para moverse en el juego el usuario utilizará alguna de las siguientes letras p
 
 ## Derecha
 
-| No. | Función | Kanban | Inicio | Fin | Fecha terminación |
+| No. | Función | Kanban | Inicio | Fin | 
 | --- | --- | --- | --- | --- | --- |
-| 5. | Personaje, pasillo  | Hecho | [0,4] | [4,0] | - |
-| 6. | Personaje, meta  |  Hecho | [0,2] | [4,6] |- |
-| 7. | Personaje, caja, pasillo | Hecho | [0,1,4] | [4,0,1] | - |
-| 8. | Personaje, caja,  meta |Hecho | [0,1,2] | [4,0,5] | - |
-| 9. | Personaje, caja_meta, pasillo | Hecho | [] | [] | - |
-| 10. |Personaje, caja_meta, meta | Hecho | [] | [] | - |
-| 11. | Personaje_meta, pasillo | Hecho | [] | [] | - |
-| 12. | Personaje_meta, meta | Hecho | [] | [] | - |
-| 13. | Personaje_meta, caja, pasillo | Hecho | [] | [] | - |
-| 14. | Personaje_meta, caja, meta | Hecho | [] | [] | - |
-| 15. | Personaje_meta, caja_meta, pasillo | Hecho | [] | [] | - |
-| 16. | Personaje_meta, caja_meta, meta | Hecho | [] | [] | - |
+| 5. | Personaje, pasillo  | Hecho | [0,4] | [4,0] | 
+| 6. | Personaje, meta  |  Hecho | [0,2] | [4,6] |
+| 7. | Personaje, caja, pasillo | Hecho | [0,1,4] | [4,0,1] | 
+| 8. | Personaje, caja,  meta |Hecho | [0,1,2] | [4,0,6] | 
+| 9. | Personaje, caja_meta, pasillo | Hecho | [0,6,4] | [4,5,1] | 
+| 10. |Personaje, caja_meta, meta | Hecho | [0,6,2] | [4,5,6] | 
+| 11. | Personaje_meta, pasillo | Hecho | [5,4] | [2,0] | 
+| 12. | Personaje_meta, meta | Hecho | [5,2] | [2,5] | 
+| 13. | Personaje_meta, caja, pasillo | Hecho | [5,1,4] | [2,0,1] | 
+| 14. | Personaje_meta, caja, meta | Hecho | [5,1,2] | [2,0,6] | 
+| 15. | Personaje_meta, caja_meta, pasillo | Hecho | [5,6,4] | [2,5,1] | 
+| 16. | Personaje_meta, caja_meta, meta | Hecho | [5,6,2] | [2,5,6] | 
 
 ## Izquierda
 
