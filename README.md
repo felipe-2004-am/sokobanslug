@@ -60,7 +60,7 @@ Para moverse en el juego el usuario utilizará alguna de las siguientes letras p
 ## Derecha
 
 | No. | Función | Kanban | Inicio | Fin | 
-| --- | --- | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- | 
 | 5. | Personaje, pasillo  | Hecho | [0,4] | [4,0] | 
 | 6. | Personaje, meta  |  Hecho | [0,2] | [4,6] |
 | 7. | Personaje, caja, pasillo | Hecho | [0,1,4] | [4,0,1] | 
